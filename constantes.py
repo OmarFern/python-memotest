@@ -1,0 +1,10 @@
+FICHAS = ["D", "D", "s", "s", "G", "G", "u", "u", "A", "A", "B", "B", "C", "C", "W", "W"]
+tablero = [x for x in range(1, 17)]
+JUGADOR = 0
+JUGADAS = 1
+PUNTOS = 2
+AJUSTE_DE_INDICE = -1
+CANTIDAD_DE_COLUMNAS = 4
+HORA_EN_SEGUNDOS = 3600
+MINUTO_EN_SEGUNDOS = 60
+MINIMO_VALOR_FICHA = 1
